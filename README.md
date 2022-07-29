@@ -24,7 +24,7 @@ See additional documentation in the documentation folder.
 
 ### PostgreSQL RDS database
 
-![PostgreSQL RDS database](./documentation/images/screenshots/images/screenshots/rds-db.png)
+![PostgreSQL RDS database](./documentation/images/screenshots/rds-db.png)
 
 ### CircleCI Pipeline
 
