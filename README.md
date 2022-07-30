@@ -38,14 +38,12 @@ added secrets here
 
 ### Architecture
 
-![Architecture](./documentation/images/infra.png)
+![Infrastructure](./documentation/images/infra.png)
+![Pipeline](./documentation/images/pipeline.png)
+
 
 ## Stack Used
 
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
-
-## License
-
-[License](LICENSE.txt)
