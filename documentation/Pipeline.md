@@ -10,3 +10,7 @@ It follows the steps in .circleci folder
 3. Install Depedencies for Frontend & API
 4. Builds Frontend & API
 5. Deploys Frontend using AWS CLI S3 to copy files to the Bucket, And AWS CLI EB to deploy nodejs API to eb environment.
+
+## Pipeline Schema
+
+![Pipeline](.././documentation/images/pipeline.png)
